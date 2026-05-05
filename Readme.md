@@ -1,4 +1,10 @@
-Desenvolvimento de Tela de Cadastro de Aluno com Bootstrap
+# Desenvolvimento de Tela de Cadastro de Aluno com Bootstrap
+
+## ALuno
+
+**Hugo Ricardo Gramme**
+
+## Descrição da Atividade
 
 O formulário deverá conter obrigatoriamente os seguintes campos:
 
